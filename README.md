@@ -43,12 +43,15 @@ All of this was logged and visualized in the Wazuh dashboard with full JSON tele
 Below are snapshots of the full detection pipeline:
 
 Sysmon installation terminal
+
 ![Image](https://github.com/user-attachments/assets/be30a170-5b04-4c57-8f98-b9fb00e19f4a)
 
 ossec.conf edit to monitor Sysmon logs
+
 ![Image](https://github.com/user-attachments/assets/017c331b-3a0d-4eb9-bc44-a2f1186b126c)
 
 PowerShell simulation of whoami and ping
+
 ![Image](https://github.com/user-attachments/assets/661203d6-4239-4c15-9d58-df82decddb98)
 
 Wazuh alert dashboard showing MITRE mapping
